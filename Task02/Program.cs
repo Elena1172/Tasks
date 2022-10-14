@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// программа сравнивает два числа
 Console.Write("Введите число a: ");
 double a = Convert.ToDouble(Console.ReadLine());
 Console.Write("Введите число b: ");
